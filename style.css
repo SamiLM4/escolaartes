@@ -1,0 +1,18 @@
+
+button {
+  background-color: #696969;
+  font-size: 2em;
+  padding: 5px 5px;
+  width: 60px;
+  height: 60px;    
+  margin-top: 250px;
+  margin-left: 77rem;
+  color: #FFFFFF;
+  border-color: #ADFF2F;
+}
+
+ body {
+        background-image: url("https://lh5.googleusercontent.com/ptdmdTIX6Wa_LhLPnzywaF6TPpZvHyPxwqrJt0cuhqv1wppC6GkezRHiUdLLEmvuR43HmVlDkPEFqf4jL3oh63P9-XoxgRFqcGkO0jHud1_U8OEZ04Jv0v7qsfMkJ5zJCr8W68LR3QRotC-KwNTiKwxySWzfFIwQDKkPs6ATmlhq0-CvbXU7JX9p8xtMJ7A=w1280");
+  
+  background-size: cover;
+};
